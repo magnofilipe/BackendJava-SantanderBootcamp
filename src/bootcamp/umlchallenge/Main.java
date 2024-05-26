@@ -1,8 +1,8 @@
-package bootcamp.uml;
+package bootcamp.umlchallenge;
 
-import bootcamp.uml.interfaces.AparelhoTelefonico;
-import bootcamp.uml.interfaces.NavegadorInternet;
-import bootcamp.uml.interfaces.ReprodutorMusical;
+import bootcamp.umlchallenge.interfaces.AparelhoTelefonico;
+import bootcamp.umlchallenge.interfaces.NavegadorInternet;
+import bootcamp.umlchallenge.interfaces.ReprodutorMusical;
 
 public class Main {
     public static void main(String[] args) {

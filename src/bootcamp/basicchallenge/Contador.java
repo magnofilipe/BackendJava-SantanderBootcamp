@@ -1,4 +1,4 @@
-package bootcamp.basic;
+package bootcamp.basicchallenge;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

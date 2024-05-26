@@ -1,4 +1,4 @@
-package bootcamp.uml.interfaces;
+package bootcamp.umlchallenge.interfaces;
 
 public interface AparelhoTelefonico {
     public void ligar(String numero);

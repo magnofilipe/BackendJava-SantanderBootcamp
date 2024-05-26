@@ -1,4 +1,4 @@
-package bootcamp.uml.interfaces;
+package bootcamp.umlchallenge.interfaces;
 
 public interface NavegadorInternet {
     public void exibirPagina(String url);
