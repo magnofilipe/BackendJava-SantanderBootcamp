@@ -1,4 +1,4 @@
-package bootcamp.uml.interfaces;
+package bootcamp.umlchallenge.interfaces;
 
 public interface ReprodutorMusical {
     public void tocar();
