@@ -2,7 +2,7 @@
 
 ## Autor e descrição do desafio
 - Autor: [Gleyson Sampaio](https://github.com/glysns)
-- Descrição [Link](https://github.com/digitalinnovationone/trilha-java-basico/blob/main/desafios/poo/README.md)
+- Descrição: [Link](https://github.com/digitalinnovationone/trilha-java-basico/blob/main/desafios/poo/README.md)
 
 ## Resolução UML
 
@@ -34,4 +34,4 @@ classDiagram
     iPhone --> NavegadorInternet
 ```
 
-### Acesse o package "uml" para conhecer as classes de resolução do desafio. 
+Acesse os arquivos .java para conhecer a implementação das classes que resolvem o desafio.
