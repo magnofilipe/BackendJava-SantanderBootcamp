@@ -9,6 +9,18 @@ public class Main {
 
         System.out.println(ordenacaoPessoas.ordenarPorIdade());
         System.out.println(ordenacaoPessoas.ordenarPorAltura());
+
+        // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+        OrdenacaoNumeros ordenacaoNumeros = new OrdenacaoNumeros();
+        ordenacaoNumeros.adicionarNumero(2);
+        ordenacaoNumeros.adicionarNumero(14);
+        ordenacaoNumeros.adicionarNumero(7);
+
+        System.out.println(ordenacaoNumeros.ordenarAscendente());
+        System.out.println(ordenacaoNumeros.ordenarDescendente());
+
+        ordenacaoNumeros.exibirNumeros();
     }
 
 }
